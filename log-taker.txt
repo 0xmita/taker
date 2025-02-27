@@ -826,3 +826,12 @@
 2/27/2025 | 12:38:56 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
 2/27/2025 | 12:38:56 AM | INFO | Trying to activate mining on-chain for wallet: 0xAdC75F74aFb98A34beDb4AC337AE5f31d9C22Ea3 
 2/27/2025 | 12:39:04 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x686ffb146238920d32ce13bf89fc946aa48e7d84d92ec46977d126a541f4b472 
+2/27/2025 | 4:10:12 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+2/27/2025 | 4:10:12 AM | INFO | Start process for wallet 0xAdC75F74aFb98A34beDb4AC337AE5f31d9C22Ea3 
+2/27/2025 | 4:10:13 AM | INFO | Trying To Login for wallet: 0xAdC75F74aFb98A34beDb4AC337AE5f31d9C22Ea3 
+2/27/2025 | 4:10:14 AM | INFO | Login successful... 
+2/27/2025 | 4:10:14 AM | INFO | Trying to check user info... 
+2/27/2025 | 4:10:14 AM | INFO | User ID: 103372948 | Twitter: @sarmiita | Total Points: 312000 
+2/27/2025 | 4:10:14 AM | INFO | Trying to check user miner status... 
+2/27/2025 | 4:10:15 AM | INFO | Last mining time: 2/27/2025, 12:39:03 AM
+2/27/2025 | 4:10:15 AM | WARN | Mining already started, next mining time is: 2/28/2025, 12:39:03 AM

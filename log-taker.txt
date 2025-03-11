@@ -1452,3 +1452,15 @@
 3/11/2025 | 8:11:41 AM | INFO | Trying to check user miner status... 
 3/11/2025 | 8:11:42 AM | INFO | Last mining time: 3/10/2025, 12:15:15 PM
 3/11/2025 | 8:11:42 AM | WARN | Mining already started, next mining time is: 3/11/2025, 12:15:15 PM
+3/11/2025 | 12:15:29 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+3/11/2025 | 12:15:29 PM | INFO | Start process for wallet 0xAdC75F74aFb98A34beDb4AC337AE5f31d9C22Ea3 
+3/11/2025 | 12:15:30 PM | INFO | Trying To Login for wallet: 0xAdC75F74aFb98A34beDb4AC337AE5f31d9C22Ea3 
+3/11/2025 | 12:15:30 PM | INFO | Login successful... 
+3/11/2025 | 12:15:30 PM | INFO | Trying to check user info... 
+3/11/2025 | 12:15:31 PM | INFO | User ID: 103372948 | Twitter: @sarmiita | Total Points: 528000 
+3/11/2025 | 12:15:31 PM | INFO | Trying to check user miner status... 
+3/11/2025 | 12:15:32 PM | INFO | Last mining time: 3/10/2025, 12:15:15 PM
+3/11/2025 | 12:15:32 PM | INFO | Trying to start Mining for wallet: 0xAdC75F74aFb98A34beDb4AC337AE5f31d9C22Ea3 
+3/11/2025 | 12:15:33 PM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+3/11/2025 | 12:15:33 PM | INFO | Trying to activate mining on-chain for wallet: 0xAdC75F74aFb98A34beDb4AC337AE5f31d9C22Ea3 
+3/11/2025 | 12:15:44 PM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x81b4e6853fe944796d2c5907c3dd6ba6b8e3fca0563eba783f82a8480ae1c392 

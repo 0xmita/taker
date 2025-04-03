@@ -2739,3 +2739,15 @@
 4/3/2025 | 12:40:42 AM | WARN | Retrying... (0 attempts left) 
 4/3/2025 | 12:40:46 AM | ERROR | Failed to get nonce after retries: Request failed with status code 521
 4/3/2025 | 12:40:46 AM | ERROR | Failed to retrieve nonce for wallet: 0xAdC75F74aFb98A34beDb4AC337AE5f31d9C22Ea3 
+4/3/2025 | 4:11:18 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+4/3/2025 | 4:11:18 AM | INFO | Start process for wallet 0xAdC75F74aFb98A34beDb4AC337AE5f31d9C22Ea3 
+4/3/2025 | 4:11:19 AM | INFO | Trying To Login for wallet: 0xAdC75F74aFb98A34beDb4AC337AE5f31d9C22Ea3 
+4/3/2025 | 4:11:20 AM | INFO | Login successful... 
+4/3/2025 | 4:11:20 AM | INFO | Trying to check user info... 
+4/3/2025 | 4:11:20 AM | INFO | User ID: 103372948 | Twitter: @sarmiita | Total Points: 1008000 
+4/3/2025 | 4:11:20 AM | INFO | Trying to check user miner status... 
+4/3/2025 | 4:11:21 AM | INFO | Last mining time: 4/1/2025, 12:16:24 PM
+4/3/2025 | 4:11:21 AM | INFO | Trying to start Mining for wallet: 0xAdC75F74aFb98A34beDb4AC337AE5f31d9C22Ea3 
+4/3/2025 | 4:11:22 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+4/3/2025 | 4:11:22 AM | INFO | Trying to activate mining on-chain for wallet: 0xAdC75F74aFb98A34beDb4AC337AE5f31d9C22Ea3 
+4/3/2025 | 4:11:32 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x685a66f725ed2608854e79ad7ae21e7023f94299c8d0bac82c171085193998f4 

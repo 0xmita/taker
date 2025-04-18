@@ -3583,3 +3583,15 @@
 4/17/2025 | 8:09:43 PM | INFO | Trying to activate mining on-chain for wallet: 0xAdC75F74aFb98A34beDb4AC337AE5f31d9C22Ea3 
 4/17/2025 | 8:09:43 PM | ERROR | Activate Mining Error: {"errno":-111,"code":"ECONNREFUSED","syscall":"connect","address":"101.47.19.33","port":443}
 4/17/2025 | 8:09:43 PM | ERROR | Wallet already start mine today or wallet dont have taker balance 
+4/18/2025 | 12:41:09 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+4/18/2025 | 12:41:09 AM | INFO | Start process for wallet 0xAdC75F74aFb98A34beDb4AC337AE5f31d9C22Ea3 
+4/18/2025 | 12:41:09 AM | INFO | Trying To Login for wallet: 0xAdC75F74aFb98A34beDb4AC337AE5f31d9C22Ea3 
+4/18/2025 | 12:41:10 AM | INFO | Login successful... 
+4/18/2025 | 12:41:10 AM | INFO | Trying to check user info... 
+4/18/2025 | 12:41:11 AM | INFO | User ID: 103372948 | Twitter: @sarmiita | Total Points: 1320000 
+4/18/2025 | 12:41:11 AM | INFO | Trying to check user miner status... 
+4/18/2025 | 12:41:11 AM | INFO | Last mining time: 4/16/2025, 4:11:15 PM
+4/18/2025 | 12:41:11 AM | INFO | Trying to start Mining for wallet: 0xAdC75F74aFb98A34beDb4AC337AE5f31d9C22Ea3 
+4/18/2025 | 12:41:12 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+4/18/2025 | 12:41:12 AM | INFO | Trying to activate mining on-chain for wallet: 0xAdC75F74aFb98A34beDb4AC337AE5f31d9C22Ea3 
+4/18/2025 | 12:41:24 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0xd6bf344c4dc0e4bb66a482b9e76bac145e9adfc4712362f480af669d5234cbc3 

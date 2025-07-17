@@ -8686,3 +8686,12 @@
 7/16/2025 | 8:17:22 PM | WARN | Retrying... (0 attempts left) 
 7/16/2025 | 8:19:42 PM | ERROR | Failed to get nonce after retries: connect ETIMEDOUT 101.47.181.18:443
 7/16/2025 | 8:19:42 PM | ERROR | Failed to retrieve nonce for wallet: 0xAdC75F74aFb98A34beDb4AC337AE5f31d9C22Ea3 
+7/17/2025 | 12:49:08 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+7/17/2025 | 12:49:09 AM | INFO | Start process for wallet 0xAdC75F74aFb98A34beDb4AC337AE5f31d9C22Ea3 
+7/17/2025 | 12:49:09 AM | INFO | Trying To Login for wallet: 0xAdC75F74aFb98A34beDb4AC337AE5f31d9C22Ea3 
+7/17/2025 | 12:49:10 AM | INFO | Login successful... 
+7/17/2025 | 12:49:10 AM | INFO | Trying to check user info... 
+7/17/2025 | 12:49:10 AM | INFO | User ID: 103372948 | Twitter: @sarmiita | Total Points: 3264000 
+7/17/2025 | 12:49:10 AM | INFO | Trying to check user miner status... 
+7/17/2025 | 12:49:11 AM | INFO | Last mining time: 7/16/2025, 12:18:36 PM
+7/17/2025 | 12:49:11 AM | WARN | Mining already started, next mining time is: 7/17/2025, 12:18:36 PM
